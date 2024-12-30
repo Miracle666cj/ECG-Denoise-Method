@@ -1,0 +1,1 @@
+The code in the file includes various denoising methods for denoising ECG signals. The original signal file used is **ECG_data.mat**. By comparing the images, the performance of the filters can be evaluated.
